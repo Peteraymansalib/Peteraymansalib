@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peteraymansalib
-- 👀 I’m interested in FrontEnd Developing
-- 🌱 I’m currently learning Javascript Frameworks
+- 👀 I’m working a software tester
+- 🌱 I’m currently learning Python and automation Testing
 - 💞️ I’m looking to collaborate on building a professional and qualified software applications
 - 📫 How to reach me on Linkedin https://www.linkedin.com/in/peter-ayman-111698167/
 
