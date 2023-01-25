@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Peteraymansalib
 - 👀 I’m working a software tester
-- 🌱 I’m currently learning Python and automation Testing
+- 🌱 I’m currently learning test automation using selenium webdriver
+- 🌱 And learning API Testing using Postman
 - 💞️ I’m looking to collaborate on building a professional and qualified software applications
 - 📫 How to reach me on Linkedin https://www.linkedin.com/in/peter-ayman-111698167/
 
